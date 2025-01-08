@@ -7,5 +7,7 @@ public class Lab002_Math {
         System.out.println(2*123);
         System.out.println(10/5);
         System.out.println(3/2);
+        System.out.println(5+5+7);
+
     }
 }
