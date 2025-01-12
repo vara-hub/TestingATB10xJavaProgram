@@ -8,6 +8,8 @@ public class Lab004_Comments {
         Date : Jan 5, 2025
         Started Course: Core Java
          */
+
         System.out.println("Hi Vara , Happy New Year 2025 !");
+        System.out.println("Multi Comment");
     }
 }

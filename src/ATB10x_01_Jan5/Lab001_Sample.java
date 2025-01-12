@@ -7,6 +7,6 @@ public class Lab001_Sample {
         int c;
         c=a+b;
         System.out.println(c);
-
+        // println ->Integer part -> No decimal
     }
 }
