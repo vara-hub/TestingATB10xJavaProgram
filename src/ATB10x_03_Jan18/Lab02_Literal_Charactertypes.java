@@ -55,5 +55,8 @@ public class Lab02_Literal_Charactertypes {
         //ASCII characters
         char ch2 = 65; // ASCII value for 'A'
         System.out.println(ch2);
+
+        char ch3434 = '3';
+        System.out.println(ch3434);
     }
 }
