@@ -20,5 +20,7 @@ public class Lab07_NameAgeSal {
     // Name: Varalaksmi
       //  Age: 32
         //Salary: 150000
+        int a= Integer.parseInt(args[3]);
+        System.out.println(a);
 }
 }
