@@ -8,16 +8,24 @@ public class Lab03_Leapyear {
         System.out.println("Enter the year to find whether its leap year or not");
         int n=sc.nextInt();
 
-        if (n%4==0)
-        {
-            if(n%400==0 && n%100!=0) {
+
+            if(n%4==0 && n%100!=0) {
 
                 System.out.println( "This is a leap year");
             }
-        }
+
         else
         {
             System.out.println(" This is NOT a leap year");
         }
     }
 }
+
+//output:
+//Enter the year to find whether its leap year or not
+//2023
+// This is NOT a leap year
+
+//Enter the year to find whether its leap year or not
+//2024
+//This is a leap year

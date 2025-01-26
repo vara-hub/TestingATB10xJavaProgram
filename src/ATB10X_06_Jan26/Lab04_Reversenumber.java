@@ -18,3 +18,8 @@ public class Lab04_Reversenumber {
 
     }
 }
+
+//OUTPUT:
+//Enter the number to check for reverse scenarios
+//273893
+//Reverse number is 398372

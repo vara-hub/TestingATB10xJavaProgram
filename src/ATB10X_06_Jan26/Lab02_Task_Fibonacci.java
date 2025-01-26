@@ -21,3 +21,16 @@ for (int i=1; i<=n; i++)
         }
     }
 }
+
+//output:
+//Enter the number to find for Fibonacci series
+//5
+//Fibonacci series = 0
+
+//Fibonacci series = 1
+
+//Fibonacci series = 1
+
+//Fibonacci series = 2
+
+//Fibonacci series = 3

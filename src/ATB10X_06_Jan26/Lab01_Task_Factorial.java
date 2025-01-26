@@ -16,3 +16,8 @@ int fact =1;
 
     }
 }
+
+//output:
+//enter the factorial number
+//5
+//The result of the factorial number=120
