@@ -24,3 +24,16 @@ public class ArmstrongNo {
 
     }
 }
+
+//output:
+/*
+enter your number
+153
+It's an ArmstrongNum
+
+enter your number
+123
+It's not an ArmstrongNum number
+
+ */
+

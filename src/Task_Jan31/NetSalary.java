@@ -20,7 +20,7 @@ public class NetSalary {
 
         System.out.println("Basic Pay: ₹" + basicPay);
         System.out.println("HRA: ₹" + hra);
-        System.out.println("Dearness Allownaces: ₹" + da);
+        System.out.println("Dearness Allowances: ₹" + da);
         System.out.println("--------------------");
         System.out.println("Gross Salary: ₹" + grossSalary);
 
@@ -35,3 +35,18 @@ public class NetSalary {
 
     }
 }
+
+//output:
+/*
+Basic Pay: ₹80000.0
+HRA: ₹32000.0
+Dearness Allowances: ₹12000.0
+--------------------
+Gross Salary: ₹124000.0
+--------------------
+PF: ₹9600.0
+TAX: ₹12400.0
+Deductions: ₹22000.0
+--------------------
+Net Salary: ₹102000.0
+ */
