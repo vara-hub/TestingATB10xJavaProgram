@@ -26,7 +26,7 @@ public class ATM_withdraw {
         }
         else
         {
-            ac -= n;
+            ac =ac-n;
             System.out.println("ATM withdraw successful");
             System.out.println("current account balance is " + ac);
         }
